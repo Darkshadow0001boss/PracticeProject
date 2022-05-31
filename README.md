@@ -1,2 +1,0 @@
-# PracticeProject
-Covid Website
